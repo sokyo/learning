@@ -47,7 +47,6 @@ f.howBig()
 #a.fruitsColor
 
 
-
 #Python 引入py文件
 ##mark - 1
 #import fileName
@@ -57,3 +56,5 @@ f.howBig()
 ##mark - 2
 #from fileName import className
 #a = className()     # a 实例化类对象
+#
+#
